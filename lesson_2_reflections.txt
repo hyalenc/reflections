@@ -4,3 +4,5 @@ You create a repository with no commit.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 Stagin area contains files to be commit
 
+How can you use the staging area to make sure you have one commit per logical change?
+Checking through the diff command
