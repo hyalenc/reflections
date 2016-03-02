@@ -1,14 +1,13 @@
-When would you want to use a remote repository rather than keeping all your work local?
+Q - When would you want to use a remote repository rather than keeping all your work local?
+A - Remote repositories is used when you're collaborating with other people on a project, when you want to share your code with someone, even if they just want to see your code and not contribute to it, when you want to be able to edit code from multiple different computers and keep the code up-to-date on all the computers and also, remotes can be a good way to keep a backup of your work
 
-    Fill in your answer here
+Q - Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+A - That way you have more controler in what you are doing and if the code is correct engough to be pushed remotely. The opposite is also true
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
-
-    Fill in your answer here
-
-Describe the differences between forks, clones, and branches.  When would you use one instead of another?
-
-    Fill in your answer here
+Q - Describe the differences between forks, clones, and branches.  When would you use one instead of another?
+A - You use a fork to copy someone's GitHub repository into a repository under your own GitHub account. You would want to use fork to make changes to a repository on GitHub that you don't have a permission to change. On the other hand, you can use clone to behave like a fork, but clone will only apply to your local repositories on your computer. You could also
+GitHub repositories to your local computer. Branches will allow you to fix a bug or add a feature on a branch of the tree that is not the master branch. Branching will allow you to control when you can logically merge your changes back to the master branch. Branch allows you to collaborate with other people in a team or individually to only roll out stable and
+tested code
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
